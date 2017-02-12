@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/client-combined-3.0.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kumar/workspace/selenium packg zar/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
